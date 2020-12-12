@@ -7,5 +7,5 @@ Testy **w** tym *repozytorium*
 - API smoke test dla logowania i wylogowania
 
 - JIRA
-
+- VSC
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
