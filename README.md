@@ -8,4 +8,6 @@ Testy **w** tym *repozytorium*
 
 - JIRA
 - VSC
+- PyCharm
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
